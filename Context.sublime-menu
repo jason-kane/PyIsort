@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "PyIsort: Sort Imports",
+        "command": "isort_document"
+    }
+]
